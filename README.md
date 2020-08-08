@@ -7,7 +7,7 @@
 &emsp;
 ![](https://img.shields.io/badge/Programming-Hobbies-brightgreen?style=social&logo=gnu-social)
 &emsp;
-![](https://img.shields.io/badge/Artificial%20Intelligence-Interests-brightgreen?style=social&logo=musicbrainz)
+![](https://img.shields.io/badge/Web%20Development-Interests-brightgreen?style=social&logo=musicbrainz)
 &emsp;  
 
 <--
