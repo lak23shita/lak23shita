@@ -10,23 +10,40 @@
 ![](https://img.shields.io/badge/Web%20Development-Interests-brightgreen?style=social&logo=musicbrainz)
 &emsp;  
 
-### 📖 What I am currently learning
+### 🌱  What I am currently learning
+ - Full Stack Web Development
+ - Cross Platform App Development
+ - Machine Learning and Deep Learning
+ - Competitive Programming 
+ - Dmbs
+ - Computer Networking
+ - Computer Vision
+ - Cloud Computing
+ 
+###📫 Connect with me:
 
-    - Full Stack Web Development
-    - Cross Platform App Development
-    - Machine Learning and Deep Learning
-    - Competitive Programming 
-    - Dmbs
-    - Computer Networking
-    - Computer Vision
+[<img align="left" alt="lakshita" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="lakshita | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="lakshita | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="lakshita | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+
     
     
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-  How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[website]: https://lakshita23.me
+[twitter]: https://twitter.com/lakshitaagarwa6
+[instagram]: https://instagram.com/agarwal_lakshita/
+[linkedin]: https://linkedin.com/in/lakshita_agarwal23/
+
+
+
