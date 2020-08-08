@@ -10,7 +10,17 @@
 ![](https://img.shields.io/badge/Web%20Development-Interests-brightgreen?style=social&logo=musicbrainz)
 &emsp;  
 
-<--
+### 📖 What I am currently learning
+
+    - Full Stack Web Development
+    - Cross Platform App Development
+    - Machine Learning and Deep Learning
+    - Competitive Programming 
+    - Dmbs
+    - Computer Networking
+    - Computer Vision
+    
+    
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
