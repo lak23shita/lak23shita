@@ -1,10 +1,16 @@
-### Hi there 👋
+### Hello there ! I am Lakshita Agarwal 👋
+<p align="left">I am Full stack developer and App developer.
+  I am currently pursuing my Btech in Computer Science. I am currently working on various  Front-End Web Design and have extensive experience working on various projects on React-js and node-js .I am a passionate for Machine learning and deep learning.  I am an Inquisitive person ready to learn and adapt to different environments.  
+</p>
 
-<!--
-**lak23shita/lak23shita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://img.shields.io/badge/I'm%20Awesome-Superpower-brightgreen?style=social&logo=awesome-lists)
+&emsp;
+![](https://img.shields.io/badge/Programming-Hobbies-brightgreen?style=social&logo=gnu-social)
+&emsp;
+![](https://img.shields.io/badge/Artificial%20Intelligence-Interests-brightgreen?style=social&logo=musicbrainz)
+&emsp;  
 
-Here are some ideas to get you started:
-
+<--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
