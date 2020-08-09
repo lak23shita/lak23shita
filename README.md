@@ -53,8 +53,8 @@
 <img align="left" alt="lakshita github stats" src="https://github-readme-stats.vercel.app/api?username=lak23shita&show_icons=true&theme=default" />
 
 <img align="left" alt="lakshita Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lak23shita&show_icons=true&theme=default" />
-<br>
-<br>
+
+<hr>
 
 ### Show some ❤️ by starring some of the repositories!
 
