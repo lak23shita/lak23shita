@@ -55,7 +55,6 @@
 <img align="left" alt="lakshita Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lak23shita&show_icons=true&theme=default" />
 <br>
 <hr>
-<h3>Show some ❤️ by starring some of the repositories!</h3>
 
 
 [website]: https://lakshita23.me
