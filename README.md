@@ -57,7 +57,7 @@
 <hr>
 
 
-[website]: https://lakshita23.me
+[website]: https://www.lakshita.live/
 [twitter]: https://twitter.com/lakshitaagarwa6
 [instagram]: https://instagram.com/agarwal_lakshita/
 [linkedin]: https://linkedin.com/in/lakshita_agarwal23/
